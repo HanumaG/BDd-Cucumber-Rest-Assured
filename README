@@ -1,0 +1,16 @@
+BDD Rest Assured Automation
+
+1. To start test run, test Runner is in Below Loaction
+\API-Cucumber-master\src\test\java\com\api\test\TestRunner.java
+
+2.Feature file path
+\API-Cucumber-master\src\test\resources\features
+
+3. step Defenition file pathe
+\API-Cucumber-master\src\main\java\com\api\stepdefinition
+
+4. POJO classes are in below path
+\API-Cucumber-master\src\main\java\com\api\test\pojo
+
+5. Schema are in below path
+\API-Cucumber-master\src\test\resources\schemas
